@@ -7,7 +7,7 @@
  * @FilePath: /bin-tauri/commitlint.config.cjs
  */
 // commitlint.config.cjs
-const czConfig = require("./.cz-config.json")
+const czConfig = require("./.cz-config.json");
 
 module.exports = {
   extends: ["@commitlint/config-conventional"],
@@ -18,4 +18,4 @@ module.exports = {
     // 自动部署的BUILD ROBOT的commit信息大写，以作区别
     "subject-case": [0],
   },
-}
+};

@@ -13,7 +13,7 @@
     { "value": "build", "name": "打包: 打包发布" },
     { "value": "ci", "name": "集成: 持续集成" },
     { "value": "release", "name": "发布: 发布新版本" },
-    { "value": "other", "name": "其他: 其他改动，比如构建流程, 依赖管理" },
+    { "value": "other", "name": "其他: 其他改动，比如构建流程, 依赖管理" }
   ],
   "messages": {
     "type": "选择提交类型:",
