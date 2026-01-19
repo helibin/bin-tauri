@@ -1,4 +1,3 @@
-// .cz-config.json
 {
   "types": [
     { "value": "feat", "name": "特性: 一个新的特性" },
