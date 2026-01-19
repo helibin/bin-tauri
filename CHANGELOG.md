@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/helibin/bin-tauri/compare/v0.0.2...v0.0.3) (2026-01-19)
+
+
+### Features
+
+* build ([50eca57](https://github.com/helibin/bin-tauri/commit/50eca57369e69f0eceee69de508ed61bf140be14))
+
 ## [0.0.2](https://github.com/helibin/bin-tauri/compare/v0.0.1...v0.0.2) (2026-01-19)
 
 
