@@ -3,7 +3,6 @@ name: Release App Bundle
 description: Release App Bundle
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
